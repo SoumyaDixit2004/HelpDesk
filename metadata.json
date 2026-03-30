@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Multimodal University Helpdesk Assistant",
+  "description": "An autonomous AI agent for university helpdesk queries using text, voice, and document RAG with Gemini 3.",
+  "requestFramePermissions": ["microphone"]
+}
